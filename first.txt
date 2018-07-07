@@ -3,4 +3,3 @@ gitの勉強をしています。
 ・git add
 ・git commit
 ・git log
-git rm
