@@ -4,3 +4,4 @@ git‚Ì•×‹­‚ğ‚µ‚Ä‚¢‚Ü‚·B
 Egit commit
 Egit log
 /git diff
+/git push
